@@ -2,4 +2,4 @@
 
 apple
 
-this is conflict line branch-a
+Conflict resolved.
